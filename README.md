@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaiky Eduardo
 
 - 🔭 Estou na procura de estágio
-- 🌱 Graduando em Engenharia da Computação
+- ⚙ Graduando em Engenharia da Computação
 
 ##
 
