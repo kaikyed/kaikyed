@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaiky Eduardo ;)
 
-- 💻 Estagiario de projetos e tecnologia.
+- 💻 Estagiário de projetos e tecnologia.
 - ⚙ Graduando em Engenharia da Computação.
 
 ##
