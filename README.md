@@ -1,4 +1,4 @@
-### Olá! Eu sou o Kaiky Eduardo ;)
+### Olá! Eu sou o Kaiky Costa ;)
 
 - ⚙ Graduando em Engenharia da Computação.
 
