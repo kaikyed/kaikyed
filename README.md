@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-537.gif" alt="Animated GIF" width="100%"/>
+      <img src="https://i.pinimg.com/originals/1b/56/d1/1b56d1b50ce4954f2a58728a81ba2968.gif" alt="Animated GIF" width="100%"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaikyed&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
