@@ -1,0 +1,339 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+  <linearGradient id="fadeMask" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="white" stop-opacity="0"/>
+    <stop offset="15%" stop-color="white" stop-opacity="1"/>
+    <stop offset="80%" stop-color="white" stop-opacity="1"/>
+    <stop offset="100%" stop-color="white" stop-opacity="0"/>
+  </linearGradient>
+  <mask id="edgeFade">
+    <rect x="0" y="0" width="900" height="180" fill="url(#fadeMask)"/>
+  </mask>
+
+</defs>
+<rect x="0" y="0" width="900" height="180" fill="#000000"/>
+<rect x="1" y="1" width="898" height="178" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+<g mask="url(#edgeFade)">
+
+    <g transform="translate(10.0,-32)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">/</text><text x="0" y="17" fill="#4c4c4c">イ</text><text x="0" y="34" fill="#5c5c5c">*</text><text x="0" y="51" fill="#6c6c6c">シ</text><text x="0" y="68" fill="#7d7d7d">ア</text><text x="0" y="85" fill="#8d8d8d">エ</text><text x="0" y="102" fill="#9d9d9d">_</text><text x="0" y="119" fill="#ffffff">:</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="10.0,-32; 10.0,218"
+        dur="5.33s" begin="1.58s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(30.0,-35)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">イ</text><text x="0" y="18" fill="#515151">;</text><text x="0" y="36" fill="#676767">イ</text><text x="0" y="54" fill="#7d7d7d">ス</text><text x="0" y="72" fill="#929292">ア</text><text x="0" y="90" fill="#ffffff">~</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="30.0,-35; 30.0,231"
+        dur="2.99s" begin="2.2s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(50.0,-50)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">オ</text><text x="0" y="18" fill="#4e4e4e">サ</text><text x="0" y="36" fill="#616161">/</text><text x="0" y="54" fill="#737373">オ</text><text x="0" y="72" fill="#868686">~</text><text x="0" y="90" fill="#989898">ウ</text><text x="0" y="108" fill="#ffffff">イ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="50.0,-50; 50.0,278"
+        dur="3.16s" begin="0.58s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(70.0,-129)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">$</text><text x="0" y="20" fill="#494949">/</text><text x="0" y="40" fill="#565656">{</text><text x="0" y="60" fill="#636363">セ</text><text x="0" y="80" fill="#707070">コ</text><text x="0" y="100" fill="#7d7d7d">セ</text><text x="0" y="120" fill="#8a8a8a">エ</text><text x="0" y="140" fill="#979797">{</text><text x="0" y="160" fill="#a4a4a4">+</text><text x="0" y="180" fill="#ffffff">&amp;</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="70.0,-129; 70.0,280"
+        dur="2.88s" begin="2.72s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(90.0,-38)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ケ</text><text x="0" y="20" fill="#4c4c4c">[</text><text x="0" y="40" fill="#5c5c5c">ク</text><text x="0" y="60" fill="#6c6c6c">&amp;</text><text x="0" y="80" fill="#7d7d7d">:</text><text x="0" y="100" fill="#8d8d8d">ア</text><text x="0" y="120" fill="#9d9d9d">ウ</text><text x="0" y="140" fill="#ffffff">~</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="90.0,-38; 90.0,230"
+        dur="4.61s" begin="1.15s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(110.0,-107)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">$</text><text x="0" y="20" fill="#494949">ウ</text><text x="0" y="40" fill="#565656">エ</text><text x="0" y="60" fill="#636363">&lt;</text><text x="0" y="80" fill="#707070">%</text><text x="0" y="100" fill="#7d7d7d">ウ</text><text x="0" y="120" fill="#8a8a8a">イ</text><text x="0" y="140" fill="#979797">{</text><text x="0" y="160" fill="#a4a4a4">#</text><text x="0" y="180" fill="#ffffff">&gt;</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="110.0,-107; 110.0,289"
+        dur="4.8s" begin="3.27s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(130.0,-138)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">カ</text><text x="0" y="18" fill="#4a4a4a">&amp;</text><text x="0" y="36" fill="#585858">イ</text><text x="0" y="54" fill="#676767">シ</text><text x="0" y="72" fill="#757575">&gt;</text><text x="0" y="90" fill="#848484">キ</text><text x="0" y="108" fill="#929292">セ</text><text x="0" y="126" fill="#a1a1a1">;</text><text x="0" y="144" fill="#ffffff">;</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="130.0,-138; 130.0,290"
+        dur="5.13s" begin="1.39s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(150.0,-160)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">_</text><text x="0" y="18" fill="#4a4a4a">~</text><text x="0" y="36" fill="#585858">&lt;</text><text x="0" y="54" fill="#676767">:</text><text x="0" y="72" fill="#757575">]</text><text x="0" y="90" fill="#848484">\</text><text x="0" y="108" fill="#929292">ス</text><text x="0" y="126" fill="#a1a1a1">ク</text><text x="0" y="144" fill="#ffffff">エ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="150.0,-160; 150.0,271"
+        dur="2.47s" begin="1.8s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(170.0,-23)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ソ</text><text x="0" y="18" fill="#4e4e4e">&gt;</text><text x="0" y="36" fill="#616161">0</text><text x="0" y="54" fill="#737373">ク</text><text x="0" y="72" fill="#868686">:</text><text x="0" y="90" fill="#989898">=</text><text x="0" y="108" fill="#ffffff">/</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="170.0,-23; 170.0,324"
+        dur="2.7s" begin="2.63s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(190.0,-151)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">~</text><text x="0" y="20" fill="#494949">;</text><text x="0" y="40" fill="#565656">;</text><text x="0" y="60" fill="#636363">;</text><text x="0" y="80" fill="#707070">;</text><text x="0" y="100" fill="#7d7d7d">オ</text><text x="0" y="120" fill="#8a8a8a">%</text><text x="0" y="140" fill="#979797">;</text><text x="0" y="160" fill="#a4a4a4">イ</text><text x="0" y="180" fill="#ffffff">サ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="190.0,-151; 190.0,213"
+        dur="4.07s" begin="3.81s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(210.0,-48)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">オ</text><text x="0" y="17" fill="#515151">0</text><text x="0" y="34" fill="#676767">ク</text><text x="0" y="51" fill="#7d7d7d">=</text><text x="0" y="68" fill="#929292">オ</text><text x="0" y="85" fill="#ffffff">/</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="210.0,-48; 210.0,287"
+        dur="5.45s" begin="1.76s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(230.0,-116)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">]</text><text x="0" y="19" fill="#494949">/</text><text x="0" y="38" fill="#565656">%</text><text x="0" y="57" fill="#636363">カ</text><text x="0" y="76" fill="#707070">カ</text><text x="0" y="95" fill="#7d7d7d">&amp;</text><text x="0" y="114" fill="#8a8a8a">$</text><text x="0" y="133" fill="#979797">%</text><text x="0" y="152" fill="#a4a4a4">%</text><text x="0" y="171" fill="#ffffff">{</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="230.0,-116; 230.0,238"
+        dur="2.28s" begin="3.5s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(250.0,-87)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">+</text><text x="0" y="18" fill="#515151">1</text><text x="0" y="36" fill="#676767">シ</text><text x="0" y="54" fill="#7d7d7d">+</text><text x="0" y="72" fill="#929292">/</text><text x="0" y="90" fill="#ffffff">ク</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="250.0,-87; 250.0,322"
+        dur="2.68s" begin="3.0s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(270.0,-96)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">+</text><text x="0" y="19" fill="#494949">/</text><text x="0" y="38" fill="#565656">ケ</text><text x="0" y="57" fill="#636363">]</text><text x="0" y="76" fill="#707070">ス</text><text x="0" y="95" fill="#7d7d7d">=</text><text x="0" y="114" fill="#8a8a8a">=</text><text x="0" y="133" fill="#979797">*</text><text x="0" y="152" fill="#a4a4a4">[</text><text x="0" y="171" fill="#ffffff">ス</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="270.0,-96; 270.0,223"
+        dur="5.22s" begin="3.03s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(290.0,-69)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ス</text><text x="0" y="20" fill="#494949">サ</text><text x="0" y="40" fill="#565656">+</text><text x="0" y="60" fill="#636363">&amp;</text><text x="0" y="80" fill="#707070">]</text><text x="0" y="100" fill="#7d7d7d">1</text><text x="0" y="120" fill="#8a8a8a">1</text><text x="0" y="140" fill="#979797">&lt;</text><text x="0" y="160" fill="#a4a4a4">%</text><text x="0" y="180" fill="#ffffff">ソ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="290.0,-69; 290.0,261"
+        dur="4.88s" begin="3.94s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(310.0,-134)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">エ</text><text x="0" y="19" fill="#4e4e4e">ス</text><text x="0" y="38" fill="#616161">オ</text><text x="0" y="57" fill="#737373">ス</text><text x="0" y="76" fill="#868686">%</text><text x="0" y="95" fill="#989898">サ</text><text x="0" y="114" fill="#ffffff">[</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="310.0,-134; 310.0,289"
+        dur="4.49s" begin="3.83s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(330.0,-20)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">エ</text><text x="0" y="19" fill="#4e4e4e">カ</text><text x="0" y="38" fill="#616161">\</text><text x="0" y="57" fill="#737373">サ</text><text x="0" y="76" fill="#868686">%</text><text x="0" y="95" fill="#989898">コ</text><text x="0" y="114" fill="#ffffff">_</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="330.0,-20; 330.0,322"
+        dur="3.79s" begin="3.94s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(350.0,-121)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">エ</text><text x="0" y="20" fill="#4c4c4c">ケ</text><text x="0" y="40" fill="#5c5c5c">ケ</text><text x="0" y="60" fill="#6c6c6c">キ</text><text x="0" y="80" fill="#7d7d7d">1</text><text x="0" y="100" fill="#8d8d8d">ク</text><text x="0" y="120" fill="#9d9d9d">$</text><text x="0" y="140" fill="#ffffff">ク</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="350.0,-121; 350.0,318"
+        dur="2.49s" begin="3.78s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(370.0,-109)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">1</text><text x="0" y="18" fill="#494949">0</text><text x="0" y="36" fill="#565656">オ</text><text x="0" y="54" fill="#636363">+</text><text x="0" y="72" fill="#707070">キ</text><text x="0" y="90" fill="#7d7d7d">_</text><text x="0" y="108" fill="#8a8a8a">サ</text><text x="0" y="126" fill="#979797">シ</text><text x="0" y="144" fill="#a4a4a4">1</text><text x="0" y="162" fill="#ffffff">ソ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="370.0,-109; 370.0,239"
+        dur="4.93s" begin="3.92s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(390.0,-103)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">キ</text><text x="0" y="20" fill="#4e4e4e">イ</text><text x="0" y="40" fill="#616161">]</text><text x="0" y="60" fill="#737373">$</text><text x="0" y="80" fill="#868686">+</text><text x="0" y="100" fill="#989898">:</text><text x="0" y="120" fill="#ffffff">*</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="390.0,-103; 390.0,266"
+        dur="3.17s" begin="0.96s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(410.0,-24)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">0</text><text x="0" y="18" fill="#4e4e4e">ク</text><text x="0" y="36" fill="#616161">コ</text><text x="0" y="54" fill="#737373">ク</text><text x="0" y="72" fill="#868686">%</text><text x="0" y="90" fill="#989898">カ</text><text x="0" y="108" fill="#ffffff">~</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="410.0,-24; 410.0,312"
+        dur="3.96s" begin="2.09s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(430.0,-143)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">セ</text><text x="0" y="17" fill="#515151">サ</text><text x="0" y="34" fill="#676767">&lt;</text><text x="0" y="51" fill="#7d7d7d">ア</text><text x="0" y="68" fill="#929292">オ</text><text x="0" y="85" fill="#ffffff">*</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="430.0,-143; 430.0,227"
+        dur="3.28s" begin="2.07s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(450.0,-36)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">*</text><text x="0" y="19" fill="#4a4a4a">*</text><text x="0" y="38" fill="#585858">サ</text><text x="0" y="57" fill="#676767">&lt;</text><text x="0" y="76" fill="#757575">#</text><text x="0" y="95" fill="#848484">*</text><text x="0" y="114" fill="#929292">=</text><text x="0" y="133" fill="#a1a1a1">%</text><text x="0" y="152" fill="#ffffff">*</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="450.0,-36; 450.0,313"
+        dur="4.05s" begin="3.04s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(470.0,-86)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">キ</text><text x="0" y="20" fill="#4e4e4e">:</text><text x="0" y="40" fill="#616161">カ</text><text x="0" y="60" fill="#737373">;</text><text x="0" y="80" fill="#868686">#</text><text x="0" y="100" fill="#989898">}</text><text x="0" y="120" fill="#ffffff">ウ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="470.0,-86; 470.0,251"
+        dur="4.51s" begin="3.51s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(490.0,-97)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">/</text><text x="0" y="18" fill="#4e4e4e">ク</text><text x="0" y="36" fill="#616161">ソ</text><text x="0" y="54" fill="#737373">キ</text><text x="0" y="72" fill="#868686">$</text><text x="0" y="90" fill="#989898">ス</text><text x="0" y="108" fill="#ffffff">オ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="490.0,-97; 490.0,231"
+        dur="3.61s" begin="0.85s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(510.0,-77)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">*</text><text x="0" y="20" fill="#4a4a4a">;</text><text x="0" y="40" fill="#585858">[</text><text x="0" y="60" fill="#676767">:</text><text x="0" y="80" fill="#757575">サ</text><text x="0" y="100" fill="#848484">]</text><text x="0" y="120" fill="#929292">}</text><text x="0" y="140" fill="#a1a1a1">エ</text><text x="0" y="160" fill="#ffffff">/</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="510.0,-77; 510.0,241"
+        dur="5.12s" begin="0.65s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(530.0,-24)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">+</text><text x="0" y="19" fill="#515151">&gt;</text><text x="0" y="38" fill="#676767">*</text><text x="0" y="57" fill="#7d7d7d">ウ</text><text x="0" y="76" fill="#929292">カ</text><text x="0" y="95" fill="#ffffff">ス</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="530.0,-24; 530.0,298"
+        dur="3.32s" begin="1.83s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(550.0,-66)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">_</text><text x="0" y="18" fill="#515151">ソ</text><text x="0" y="36" fill="#676767">;</text><text x="0" y="54" fill="#7d7d7d">ク</text><text x="0" y="72" fill="#929292">=</text><text x="0" y="90" fill="#ffffff">*</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="550.0,-66; 550.0,269"
+        dur="2.48s" begin="1.09s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(570.0,-91)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">_</text><text x="0" y="18" fill="#494949">ウ</text><text x="0" y="36" fill="#565656">&lt;</text><text x="0" y="54" fill="#636363">1</text><text x="0" y="72" fill="#707070">エ</text><text x="0" y="90" fill="#7d7d7d">ソ</text><text x="0" y="108" fill="#8a8a8a">エ</text><text x="0" y="126" fill="#979797">ス</text><text x="0" y="144" fill="#a4a4a4">ウ</text><text x="0" y="162" fill="#ffffff">ソ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="570.0,-91; 570.0,214"
+        dur="3.83s" begin="1.31s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(590.0,-126)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ア</text><text x="0" y="18" fill="#515151">+</text><text x="0" y="36" fill="#676767">セ</text><text x="0" y="54" fill="#7d7d7d">カ</text><text x="0" y="72" fill="#929292">ケ</text><text x="0" y="90" fill="#ffffff">ソ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="590.0,-126; 590.0,268"
+        dur="3.7s" begin="1.36s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(610.0,-98)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">&gt;</text><text x="0" y="18" fill="#515151">#</text><text x="0" y="36" fill="#676767">*</text><text x="0" y="54" fill="#7d7d7d">コ</text><text x="0" y="72" fill="#929292">&lt;</text><text x="0" y="90" fill="#ffffff">]</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="610.0,-98; 610.0,335"
+        dur="2.8s" begin="3.73s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(630.0,-24)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">*</text><text x="0" y="18" fill="#515151">%</text><text x="0" y="36" fill="#676767">セ</text><text x="0" y="54" fill="#7d7d7d">#</text><text x="0" y="72" fill="#929292">オ</text><text x="0" y="90" fill="#ffffff">_</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="630.0,-24; 630.0,329"
+        dur="5.48s" begin="0.15s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(650.0,-149)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ス</text><text x="0" y="18" fill="#4a4a4a">[</text><text x="0" y="36" fill="#585858">サ</text><text x="0" y="54" fill="#676767">キ</text><text x="0" y="72" fill="#757575">;</text><text x="0" y="90" fill="#848484">]</text><text x="0" y="108" fill="#929292">イ</text><text x="0" y="126" fill="#a1a1a1">キ</text><text x="0" y="144" fill="#ffffff">0</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="650.0,-149; 650.0,278"
+        dur="4.0s" begin="3.55s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(670.0,-130)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">エ</text><text x="0" y="17" fill="#515151">\</text><text x="0" y="34" fill="#676767">*</text><text x="0" y="51" fill="#7d7d7d">&gt;</text><text x="0" y="68" fill="#929292">セ</text><text x="0" y="85" fill="#ffffff">&gt;</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="670.0,-130; 670.0,241"
+        dur="4.26s" begin="3.52s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(690.0,-134)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="15" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">/</text><text x="0" y="19" fill="#515151">[</text><text x="0" y="38" fill="#676767">~</text><text x="0" y="57" fill="#7d7d7d">}</text><text x="0" y="76" fill="#929292">セ</text><text x="0" y="95" fill="#ffffff">ア</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="690.0,-134; 690.0,200"
+        dur="3.72s" begin="0.63s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(710.0,-105)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">%</text><text x="0" y="17" fill="#4c4c4c">&lt;</text><text x="0" y="34" fill="#5c5c5c">*</text><text x="0" y="51" fill="#6c6c6c">サ</text><text x="0" y="68" fill="#7d7d7d">セ</text><text x="0" y="85" fill="#8d8d8d">*</text><text x="0" y="102" fill="#9d9d9d">0</text><text x="0" y="119" fill="#ffffff">エ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="710.0,-105; 710.0,297"
+        dur="2.92s" begin="0.73s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(730.0,-30)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">{</text><text x="0" y="17" fill="#4c4c4c">{</text><text x="0" y="34" fill="#5c5c5c">ス</text><text x="0" y="51" fill="#6c6c6c">エ</text><text x="0" y="68" fill="#7d7d7d">+</text><text x="0" y="85" fill="#8d8d8d">ク</text><text x="0" y="102" fill="#9d9d9d">\</text><text x="0" y="119" fill="#ffffff">}</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="730.0,-30; 730.0,300"
+        dur="4.9s" begin="0.58s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(750.0,-57)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">*</text><text x="0" y="20" fill="#4a4a4a">キ</text><text x="0" y="40" fill="#585858">+</text><text x="0" y="60" fill="#676767">*</text><text x="0" y="80" fill="#757575">1</text><text x="0" y="100" fill="#848484">ス</text><text x="0" y="120" fill="#929292">エ</text><text x="0" y="140" fill="#a1a1a1">1</text><text x="0" y="160" fill="#ffffff">ア</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="750.0,-57; 750.0,211"
+        dur="2.69s" begin="2.9s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(770.0,-116)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">1</text><text x="0" y="17" fill="#4e4e4e">=</text><text x="0" y="34" fill="#616161">セ</text><text x="0" y="51" fill="#737373">&amp;</text><text x="0" y="68" fill="#868686">ソ</text><text x="0" y="85" fill="#989898">0</text><text x="0" y="102" fill="#ffffff">$</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="770.0,-116; 770.0,315"
+        dur="4.3s" begin="3.84s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(790.0,-157)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">%</text><text x="0" y="17" fill="#515151">ソ</text><text x="0" y="34" fill="#676767">ウ</text><text x="0" y="51" fill="#7d7d7d">ソ</text><text x="0" y="68" fill="#929292">セ</text><text x="0" y="85" fill="#ffffff">シ</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="790.0,-157; 790.0,223"
+        dur="4.67s" begin="2.01s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(810.0,-146)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">%</text><text x="0" y="17" fill="#4e4e4e">&gt;</text><text x="0" y="34" fill="#616161">ア</text><text x="0" y="51" fill="#737373">サ</text><text x="0" y="68" fill="#868686">ウ</text><text x="0" y="85" fill="#989898">ク</text><text x="0" y="102" fill="#ffffff">[</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="810.0,-146; 810.0,297"
+        dur="4.64s" begin="3.9s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(830.0,-54)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">イ</text><text x="0" y="20" fill="#4c4c4c">&amp;</text><text x="0" y="40" fill="#5c5c5c">&lt;</text><text x="0" y="60" fill="#6c6c6c">オ</text><text x="0" y="80" fill="#7d7d7d">シ</text><text x="0" y="100" fill="#8d8d8d">&amp;</text><text x="0" y="120" fill="#9d9d9d">&gt;</text><text x="0" y="140" fill="#ffffff">+</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="830.0,-54; 830.0,203"
+        dur="4.35s" begin="2.77s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(850.0,-50)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">{</text><text x="0" y="18" fill="#4c4c4c">エ</text><text x="0" y="36" fill="#5c5c5c">%</text><text x="0" y="54" fill="#6c6c6c">1</text><text x="0" y="72" fill="#7d7d7d">&gt;</text><text x="0" y="90" fill="#8d8d8d">$</text><text x="0" y="108" fill="#9d9d9d">ウ</text><text x="0" y="126" fill="#ffffff">*</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="850.0,-50; 850.0,340"
+        dur="3.73s" begin="1.87s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(870.0,-73)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="13" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">ク</text><text x="0" y="17" fill="#4a4a4a">+</text><text x="0" y="34" fill="#585858">ソ</text><text x="0" y="51" fill="#676767">/</text><text x="0" y="68" fill="#757575">キ</text><text x="0" y="85" fill="#848484">*</text><text x="0" y="102" fill="#929292">&lt;</text><text x="0" y="119" fill="#a1a1a1">カ</text><text x="0" y="136" fill="#ffffff">/</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="870.0,-73; 870.0,219"
+        dur="5.48s" begin="1.55s" repeatCount="indefinite"/>
+    </g>
+
+    <g transform="translate(890.0,-120)">
+      <g font-family="JetBrains Mono, Consolas, monospace" font-size="14" text-anchor="middle"><text x="0" y="0" fill="#3c3c3c">0</text><text x="0" y="18" fill="#4e4e4e">&amp;</text><text x="0" y="36" fill="#616161">#</text><text x="0" y="54" fill="#737373">;</text><text x="0" y="72" fill="#868686">{</text><text x="0" y="90" fill="#989898">ク</text><text x="0" y="108" fill="#ffffff">:</text></g>
+      <animateTransform attributeName="transform" type="translate"
+        values="890.0,-120; 890.0,206"
+        dur="3.84s" begin="3.5s" repeatCount="indefinite"/>
+    </g>
+</g>
+
+<rect x="0" y="0" width="900" height="2" fill="#ffffff" opacity="0.08">
+  <animate attributeName="y" values="-20;200;-20" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+</svg>
