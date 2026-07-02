@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://i.pinimg.com/originals/1b/56/d1/1b56d1b50ce4954f2a58728a81ba2968.gif" alt="Animated GIF" width="100%"/>
+      <img src="https://i.pinimg.com/originals/51/c3/3f/51c33f30ba29cea4c9d0a298e8825f3d.jpg" alt="Animated GIF" width="100%"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaikyed&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
